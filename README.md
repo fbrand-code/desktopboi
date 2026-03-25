@@ -3,3 +3,5 @@
 AttackoftheBozos is a short test projectile game used to test Unreal Engine.
 
 To play the game, download attackofthebozos.zip from my itch.io page. (password is 'enter') https://dflimbingo.itch.io/ryansim
+
+Built entirely in three days.
